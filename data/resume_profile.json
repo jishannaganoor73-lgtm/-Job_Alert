@@ -1,18 +1,61 @@
 {
-  "name": "Ansh Somani",
-  "education": "B.Tech Computer Science, IIIT Kota (2023-2027)",
-  "coreStack": [
-    "Node.js", "Express.js", "JavaScript (ES6+)", "MongoDB", "React.js",
-    "REST APIs", "Git", "GitHub Actions", "Cheerio", "Axios"
-  ],
-  "interests": [
-    "Backend Engineering", "System Design", "Distributed Systems",
-    "Data Pipelines", "Serverless Architecture"
-  ],
-  "targetRoles": [
-    "Backend Engineer Intern", "SDE Intern", "Software Developer Intern",
-    "Software Engineer Intern", "Full Stack Developer Intern"
-  ],
-  "targetLocations": ["India", "Remote", "Work From Home"],
-  "experienceLevel": "Fresher / 0-1 years / New Grad / Entry Level"
+“name”: “Jishanali Z Naganoor”,
+“education”: “”,
+“coreStack”: [
+“JavaScript”,
+“React.js”,
+“HTML5”,
+“CSS3”,
+“Tailwind CSS”,
+“Material UI”,
+“Firebase Authentication”,
+“Firebase Firestore”,
+“REST APIs”,
+“Git”,
+“GitHub”,
+“Python”,
+“Node.js”,
+“SQL”,
+“Web Development”,
+“API Integration”,
+“CRUD Operations”,
+“Responsive Design”
+],
+“interests”: [
+“Software Engineering”,
+“Full Stack Development”,
+“Frontend Development”,
+“Backend Development”,
+“Web Application Development”,
+“JavaScript Development”,
+“React Development”,
+“Python Development”,
+“Application Support”,
+“IT Engineering”
+],
+“targetRoles”: [
+“Software Engineer”,
+“Software Developer”,
+“Associate Software Engineer”,
+“Junior Software Engineer”,
+“Full Stack Developer”,
+“Frontend Developer”,
+“Backend Developer”,
+“React Developer”,
+“JavaScript Developer”,
+“Python Developer”,
+“Web Developer”,
+“Application Developer”,
+“IT Engineer”,
+“Graduate Engineer Trainee”
+],
+“targetLocations”: [
+“Bengaluru”,
+“Bangalore”,
+“India”,
+“Remote”,
+“Work From Home”,
+“Hybrid”
+],
+“experienceLevel”: “1.5 years experience / 1-2 years / 0-3 years / Associate / Junior / Early Career”
 }
